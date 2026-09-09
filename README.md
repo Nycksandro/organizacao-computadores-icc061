@@ -9,6 +9,8 @@ Projeto prático desenvolvido no âmbito da disciplina de Organização de Compu
 Este repositório engloba os trabalhos desenvolvidos na disciplina de Organização de Computadores. O desenvolvimento dos circuitos, do montador e da arquitetura do computador foi baseado nas especificações e conceitos apresentados no livro:
 > **SCOTT, J. Clark.** *But How Do It Know? The basic principles of computers for everyone.* John C Scott, 2009.
 
+![Visão Geral do Computador de 8 Bits no Logisim](/img/imagem_circuito.png)
+
 ---
 
 ## Objetivos do Projeto

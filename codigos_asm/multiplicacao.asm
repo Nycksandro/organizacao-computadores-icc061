@@ -1,0 +1,10 @@
+data r0,0x00
+data r1,0x07
+data r2,0x00
+data r3,0x05
+not r2,r2
+jz  0x0e
+add r3,r0
+add r2,r1
+jc 0x09
+st r2,r1
